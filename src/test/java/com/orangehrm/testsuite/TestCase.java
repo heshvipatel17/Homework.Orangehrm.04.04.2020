@@ -7,16 +7,16 @@ import org.testng.annotations.Test;
 public class TestCase extends TestBase {
     HomePage homePage = new HomePage();
 
-    @Test
+    @Test(priority = 0, groups = {"Sanity","Regression"})
     public void VerifyUserShouldNavigateToOrangeHrmPage(){
         homePage.clickOnOrangeHrm();
     }
-    @Test
+    @Test(priority = 1, groups = {"Smoke","Regression"})
     public void VerifyUserShouldClickOnFree30DayTrialLink(){
         homePage.clickOnFree30DayTrialLink();
 
     }
-    @Test
+    @Test (priority = 2, groups = {"Regression"})
     public void verifyUserShouldClickOnContactSalesLink(){
         homePage.clickOnContactSalesLink();
 
