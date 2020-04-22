@@ -1,0 +1,9 @@
+2020-04-20 21:04:111 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-20 21:04:283 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-20 21:04:345 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-20 21:04:98 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-20 21:04:581 INFO  HomePage :26 - Clicking on OrangeHRM link [[ChromeDriver: chrome on WINDOWS (8581e1006c67abe30f7951bf4870f27b)] -> xpath: //img[@class='nav-logo']]
+2020-04-20 21:04:236 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-20 21:04:435 INFO  HomePage :32 -  Clicking on 30 day free trial [[ChromeDriver: chrome on WINDOWS (f7c3b842f38d401b66394b843d55800c)] -> xpath: //a[contains(@class,'btn-orange trial-btn pulse')]]
+2020-04-20 21:04:60 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-20 21:04:912 INFO  HomePage :38 -  Clicking on contact sales link [[ChromeDriver: chrome on WINDOWS (c2aca70312b9166a00ef2ad2a9fe1a92)] -> xpath: //a[contains(@class,'btn-orange contact-ohrm')]]
